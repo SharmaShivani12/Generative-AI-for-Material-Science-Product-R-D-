@@ -1,10 +1,10 @@
-Diffusion Models for Material Science (SDXL)
+# Diffusion Models for Material Science (SDXL)
 
 This repository contains a Kaggle notebook demonstrating the use of Stable Diffusion XL (SDXL) for material-science–oriented image generation.
 
 The goal is to explore how prompt engineering can guide large diffusion models to generate scientific, microscopy-style images suitable for material characterization, defect detection, and segmentation tasks, rather than artistic imagery.
 
-🧪 What This Notebook Shows
+## 🧪 What This Notebook Shows
 
 Use of Stable Diffusion XL for synthetic material image generation
 
@@ -16,7 +16,7 @@ Memory-safe inference on GPU-constrained environments (Kaggle)
 
 Industrial R&D framing relevant to consumer goods and materials research
 
-🔬 Motivation
+## 🔬 Motivation
 
 Real microscopy data can be:
 
@@ -28,7 +28,7 @@ Difficult to annotate
 
 This notebook demonstrates how diffusion models can supplement experimental data by generating controlled, segmentation-ready synthetic images for downstream computer vision workflows.
 
-⚙️ Technical Highlights
+## ⚙️ Technical Highlights
 
 Stable Diffusion XL (SDXL)
 
@@ -40,7 +40,7 @@ No Hugging Face authentication required
 
 Kaggle-compatible setup
 
-📌 Intended Use
+## 📌 Intended Use
 
 Synthetic data generation
 
@@ -50,7 +50,7 @@ Semantic segmentation experiments
 
 Applied AI for material science R&D
 
-⚠️ Notes
+## ⚠️ Notes
 
 Images are synthetic and intended for experimentation
 
